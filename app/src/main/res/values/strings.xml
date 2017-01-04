@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TextToSpeechTest</string>
+    <string name="jarvisSpeech">Good morning.
+Its 7 a.m.
+the weather in Malibu is Sunny and 75 degrees Fahrenheit
+surf conditions are optimal
+Today\'s agenda:
+Work on hot-rod
+Fly to Afghanistan with Rhodes
+Wish Obi happy b-day</string>
+</resources>
